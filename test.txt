@@ -1,1 +1,1 @@
-Hello this is dev2 change from test.txt
+Hello this is combined change from dev1 and dev2
